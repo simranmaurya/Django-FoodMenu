@@ -1,4 +1,4 @@
-"# Django-FoodMenu"
+# Django-FoodMenu
 
 To run the server:
 
